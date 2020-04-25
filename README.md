@@ -11,10 +11,6 @@
 	+ set Color Space to Linear
 	+ set Api Compatibility Level to .NET 4.x
 
-* Main Camera
-  + set Rendering Path to Deferred
-  + set MSAA to Off
-
 * Package Manager
   + import Post Processing 
   + import TextMesh Pro (if not automatically added
