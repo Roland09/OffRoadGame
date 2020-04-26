@@ -7,9 +7,20 @@
 * New 3D game, Standard Pipeline
 
 * Project Settings
+
     Player:
 	+ set Color Space to Linear
 	+ set Api Compatibility Level to .NET 4.x
+
+* additional Project Settings changes as described in the NWH Vehicle Physics 2 Quick Start documentation:
+
+    Physics:
+    + disable Queries HIt Backfaces
+    + disable Hit Triggers
+
+    Time
+    + change Fixed Timestep from default 0.02 (50Hz) to 0.01667 (60Hz) or lower, depending on target platform
+
 
 * Package Manager
   + import Post Processing 
