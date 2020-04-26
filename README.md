@@ -15,7 +15,7 @@
 * additional Project Settings changes as described in the NWH Vehicle Physics 2 Quick Start documentation:
 
     Physics:
-    + disable Queries HIt Backfaces
+    + disable Queries Hit Backfaces
     + disable Hit Triggers
 
     Time
